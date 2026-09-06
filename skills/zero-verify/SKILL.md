@@ -3,8 +3,6 @@ name: zero-verify
 description: Verify Zero setup and features through permissions, sync exposure, optimistic/server reconciliation, relationship behavior, query performance, and runtime troubleshooting.
 ---
 
-<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
-
 # Verify Zero behavior
 
 Verify external behavior and data boundaries, not implementation wording. Inspect the repository's test tools, fixtures, schema exposure, auth context, query/mutator registries, and installed Zero version.

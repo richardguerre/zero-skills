@@ -3,8 +3,6 @@ name: zero-setup
 description: Set up Zero in a new or existing application and prove a complete scoped read and authorized write vertical slice. Use when adding Zero, configuring zero-cache or Zero Cloud, wiring auth, or establishing a first working integration.
 ---
 
-<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
-
 # Set up Zero
 
 Integrate Zero into the target repository and leave a working, verifiable vertical slice. Adapt to the existing stack; do not impose a framework-specific layout.

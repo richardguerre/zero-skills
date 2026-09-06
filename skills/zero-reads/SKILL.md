@@ -3,8 +3,6 @@ name: zero-reads
 description: Build safe and efficient Zero queries, list/detail contracts, preloads, relationship projections, audience registries, and client read consumers.
 ---
 
-<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
-
 # Build Zero reads
 
 Inspect the repository, exact installed Zero version, schema exposure, permission helpers, registries, neighboring queries, and relevant official docs before editing.

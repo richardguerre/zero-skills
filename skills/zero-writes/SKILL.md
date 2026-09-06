@@ -3,8 +3,6 @@ name: zero-writes
 description: Build authorized Zero mutators with safe optimistic execution, authoritative server reconciliation, hidden-column persistence, transaction boundaries, and server-only effects.
 ---
 
-<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
-
 # Build Zero writes
 
 Inspect the repository, installed Zero version, matching registry, permission helpers, schema exposure, and neighboring mutators before editing.

@@ -3,8 +3,6 @@ name: zero
 description: Route Zero work to the focused setup, design, reads, writes, authorization-audit, migration, or verification workflow. Use for any Zero integration, schema or policy design, query or mutator work, security review, synced-schema migration, or Zero testing and troubleshooting.
 ---
 
-<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
-
 # Zero
 
 Use this as the entry point for Zero work. Inspect the target first, then choose one primary capability. The router routes; it does not duplicate capability instructions.

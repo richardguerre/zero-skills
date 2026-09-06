@@ -3,8 +3,6 @@ name: zero-authz
 description: Audit an existing Zero application for tenant leaks, missing ownership checks, identity impersonation, unsafe public exposure, relationship leaks, and unauthorized mutator effects.
 ---
 
-<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
-
 # Audit Zero authorization
 
 This is an evidence-backed review workflow. Inspect repository instructions, installed Zero version, schema exposure, query/mutator registries, auth context, policy helpers, and relationship definitions before reporting findings.
