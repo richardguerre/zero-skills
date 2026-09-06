@@ -3,6 +3,8 @@ name: zero-design
 description: Design a Zero-backed data and authorization model before implementation, including synced schema exposure, tenant boundaries, policy scopes, relationships, and public/private projections.
 ---
 
+<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
+
 # Design Zero boundaries
 
 Produce a concrete design that a reads or writes implementation can follow. Inspect the target repository, installed Zero version, schema source, auth model, and current official docs first.

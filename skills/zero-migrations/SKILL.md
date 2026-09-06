@@ -3,6 +3,8 @@ name: zero-migrations
 description: Safely evolve a Zero-backed database, synced schema exposure, replicas, backfills, and clients without breaking compatibility or leaking data.
 ---
 
+<!-- If this document is updated, please also update the public repo: https://github.com/richardguerre/zero-skills -->
+
 # Migrate a Zero application
 
 Inspect the database migration system, Zero schema/exposure configuration, generated artifacts, cache/deployment model, active clients, and installed Zero version first.
